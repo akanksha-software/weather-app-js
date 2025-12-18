@@ -5,6 +5,7 @@ A simple weather application built using HTML and JavaScript.
 
 ## Live Demo
 👉 [Click here to view the app](https://akanksha-software.github.io/weather-app-js/)
+Works on Live Server , NOT HERE
 
 ## Features
 - Search weather by city name
