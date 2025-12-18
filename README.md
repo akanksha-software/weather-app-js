@@ -3,6 +3,9 @@
 
 A simple weather application built using HTML and JavaScript.
 
+## Live Demo
+👉 [Click here to view the app](https://akanksha-software.github.io/weather-app-js/)
+
 ## Features
 - Search weather by city name
 - Uses Weather API
